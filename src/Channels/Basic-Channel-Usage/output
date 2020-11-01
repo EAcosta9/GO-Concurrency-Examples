@@ -1,0 +1,5 @@
+Starting Program
+The receive from the channel will now be blocking
+I'll send something over the channel in about five seconds
+Received value 5 from the channel
+Now exiting program
