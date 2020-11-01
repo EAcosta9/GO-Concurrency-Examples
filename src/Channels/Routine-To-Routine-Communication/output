@@ -1,0 +1,4 @@
+Starting Program
+The receive from the channel will now be blocking
+Received value 5 from the channel
+Now exiting program
