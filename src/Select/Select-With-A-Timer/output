@@ -1,0 +1,13 @@
+Starting Program
+From Chan1 I have received 0
+I will now reset the timer
+From Chan1 I have received 1
+I will now reset the timer
+From Chan1 I have received 2
+I will now reset the timer
+From Chan1 I have received 3
+I will now reset the timer
+From Chan1 I have received 4
+I will now reset the timer
+Timer went off because nothing was received on Chan1. I am breaking out of this for loop.
+I have hit the end of main. Now exiting the program
